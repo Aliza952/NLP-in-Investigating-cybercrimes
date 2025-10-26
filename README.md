@@ -1,7 +1,10 @@
 # MOOC Stage 1 – Article Submission
 
-This repository contains my article submission for the **MOOC activity on Advanced Digital Forensics**.
+This repository contains my **MOOC submissions for Advanced Digital Forensics**:
 
+- **Stage 1:** Article on NLP in Cybercrime Investigation  
+- **Stage 2:** Video explanation of the same topic
+  
 ## 📄 Article Details
 
 - **Topic:** Natural Language Processing (NLP) in Investigating Cybercrimes  
@@ -13,6 +16,7 @@ This repository contains my article submission for the **MOOC activity on Advanc
 | File Name | Description |
 |-----------|-------------|
 | `NLP_in_Investigating_Cybercrimes.pdf` | PDF version of the article |
+| `NLP_Cybercrime_Video.mp4` | Video explanation of the article |
 
 ## 🔗 Article Link
 
