@@ -19,7 +19,7 @@ This repository contains my article submission for the **MOOC activity on Advanc
 ## 🔗 Article Link
 
 You can view or download the article here:  
-[PDF Version](./NLP_in_Investigating_Cybercrimes.pdf)  
+[PDF Version]([./NLP_in_Investigating_Cybercrimes.pdf](https://github.com/Aliza952/digital-forensics-article/blob/main/NLP%20in%20investigating%20cybercrimes.pdf))  
 
 ## ✅ Notes
 
